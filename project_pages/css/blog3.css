@@ -572,6 +572,12 @@ footer
         padding-top: 6.2rem;
       }
     /* end of main */
+    /* Section-1 */
+    .topic
+    {
+      width: 100%;
+    }
+    /* end of section-1 */
     /* Section-4 */
     .up-text
     {
